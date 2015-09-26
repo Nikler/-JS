@@ -25,7 +25,7 @@ var obj = {
 	console.log( typeof arr);	// object
 };
 
-// У строк ,boolean и чисел есть свои объекты
+// У строк ,boolean и чисел есть свои методы
 
 
 str.toUpperCase(); // Возводит строку в верхний регистр 
